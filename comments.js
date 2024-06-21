@@ -12,4 +12,4 @@ var comments = [];
 //create a server
 server.listen(3000);
 //output log
-console.log('server running at http://
+console.log('server running at http:/');
